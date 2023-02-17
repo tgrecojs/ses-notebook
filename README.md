@@ -1,6 +1,11 @@
 ## SES Notebook
 
-A place for compiling all of information related to the use of SES.
+A place for compiling all of information related to the use of SES / Distributed Programming in OCAPs systems.
+
+# GTOR by [@kriskowal](https://github.com/kriskowal)
+
+- [General Theory of Reactivity](https://github.com/kriskowal/gtor#a-general-theory-of-reactivity)
+- [task.js](https://kriskowal.github.io/gtor/docs/task.html)
 
 # endojs
 
